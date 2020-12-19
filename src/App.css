@@ -41,9 +41,18 @@
   margin-right: auto;
   margin-left: auto;
   max-width: 700px;
-  padding-right: 10px;
-  padding-left: 10px;
+  padding: 15px;
   background-color: #D7B377;
   border-radius: 9px;
   color: #311E10;
+  border-color: black;
+}
+
+#text{
+  color: #856084
+}
+
+#new-quote{
+  background-color: #FE5F55;
+  border: 1px;
 }
